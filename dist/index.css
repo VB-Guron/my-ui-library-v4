@@ -1,0 +1,21 @@
+/* src/components/common/navbar.scss */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  width: 100%;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e7eb;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* src/components/common/sidebar.scss */
+.sidebar {
+  width: 16rem;
+  background: #1f2937;
+  color: #f9fafb;
+  height: 100vh;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+/*# sourceMappingURL=index.css.map */
